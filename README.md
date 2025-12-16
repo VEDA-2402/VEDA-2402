@@ -1,75 +1,102 @@
 <!-- ===================== GITHUB PROFILE BANNER ===================== -->
 <p align="center">
-  <img src="./github-banner.png" alt="Data Scientist Banner" width="100%" />
+  <img src="Gemini_Generated_Image_clbrzxclbrzxclbr.png" alt="Data Scientist Banner" />
 </p>
 
 <!-- ===================== INTRO ===================== -->
-<h1 align="center">Hi, I'm T. Veda Vedhya 👋</h1>
+<h1 align="center">Hi, I'm T. Veda Vedhya </h1>
 
 <h3 align="center">Data Scientist | Financial Analytics | Machine Learning & MLOps</h3>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veda.vedhya240205@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-I am an **aspiring Data Scientist and Financial Analyst** with a strong foundation in **machine learning, financial modeling, and risk analytics**.  
-My work lies at the intersection of **data science and finance**, where I build **end-to-end ML pipelines**, deploy **production-ready models on cloud**, and translate data into **actionable business insights**.
+</div>
 
-I enjoy working on:
-- Predictive modeling for **credit risk & insurance**
-- **Equity valuation** and **portfolio risk analysis**
-- **Cloud-based ML deployment** and **MLOps workflows**
+## 🚀 About Me
 
----
+**Data Scientist & Financial Analyst** bridging quantitative finance and machine learning. I specialize in building production-grade ML systems that solve real-world financial problems—from credit risk modeling to portfolio optimization.
 
-## 🧠 Core Skills & Expertise
-
-### 📊 Programming & Analytics
-- **Python**, **SQL**
-- **MS Excel**, **Power BI**, **Tableau**
-- Data Cleaning, Transformation & Visualization
-- Statistical Analysis & Business Analytics
-
-### 🤖 Machine Learning Stack
-- Pandas, NumPy, Matplotlib, Seaborn
-- Scikit-learn, XGBoost
-- Jupyter Notebook
-- Model Evaluation & Feature Engineering
-
-### ☁️ Cloud, MLOps & Deployment
-- **AWS** (S3, EC2, ECR, IAM)
-- **Docker**
-- **CI/CD** with GitHub Actions
-- **FastAPI**
-- **MongoDB Atlas**
-- MLflow, Model Versioning & Deployment Pipelines
-- Git & GitHub (Version Control)
-
-### 💰 Finance & Quantitative Analysis
-- Discounted Cash Flow (**DCF**) Valuation
-- Comparable Company Analysis
-- Financial Statement Analysis
-- **Value at Risk (VaR)**
-- **Monte Carlo Simulation**
-- Sensitivity & Scenario Analysis
-- Portfolio Optimization
-
-
-## 🎓 Certifications & Education
-
-- **Financial Risk Manager (FRM) Level 1** — Cleared (GARP)
-- **BBA in Finance**  
-  Jawaharlal Nehru Technological University Hyderabad (2023 – 2026)
+🎯 **What I Do:**
+- 📈 Build **end-to-end ML pipelines** for financial forecasting and risk analytics
+- ☁️ Deploy **production-ready models** on AWS with MLOps best practices
+- 💹 Conduct **equity valuation** and **quantitative risk analysis**
+- 🔍 Transform complex data into **actionable business insights**
 
 ---
 
-## 📫 Connect With Me
+## 🛠️ Tech Stack
 
-- **LinkedIn:** https://www.linkedin.com/
-- **GitHub:** https://github.com/
-- **Email:** veda.vedhya240205@gmail.com
+### Programming & Data Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Machine Learning & Visualization
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Business Intelligence
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### Cloud & MLOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-⭐ *Always open to collaborations in Data Science, Finance, and ML Engineering.*
+## 🎓 Credentials
+
+**📜 Financial Risk Manager (FRM) Level 1** — Cleared  
+*Global Association of Risk Professionals (GARP)*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VEDA-2402&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VEDA-2402&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm actively seeking opportunities in:
+- 🔬 **Data Science & ML Engineering**
+- 📊 **Financial Analytics & Risk Modeling**
+- ☁️ **MLOps & Cloud Architecture**
+
+💡 *Open to collaborations on projects involving predictive modeling, financial analysis, or production ML systems.*
+
+---
+
+<div align="center">
+
+**⭐ If you find my work interesting, consider starring my repositories!**
+
+</div>
 

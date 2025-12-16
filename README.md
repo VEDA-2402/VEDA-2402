@@ -1,6 +1,6 @@
 <!-- ===================== GITHUB PROFILE BANNER ===================== -->
 <p align="center">
-  <img src="Gemini_Generated_Image_clbrzxclbrzxclbr.png" alt="Data Scientist Banner" />
+  <img src="Gemini_Generated_Image_cvkvdecvkvdecvkv.png" alt="Data Scientist Banner" />
 </p>
 
 <!-- ===================== INTRO ===================== -->

@@ -4,7 +4,7 @@
 </p>
 
 <!-- ===================== INTRO ===================== -->
-<h1 align="center">Hi, I'm T. Veda Vedhya </h1>
+<h1 align="center"> T. Veda Vedhya </h1>
 
 <h3 align="center">Data Scientist | Financial Analytics | Machine Learning & MLOps</h3>
 
